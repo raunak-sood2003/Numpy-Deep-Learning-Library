@@ -1,24 +1,4 @@
----
-jupyter:
-  kernelspec:
-    display_name: Python 3 (ipykernel)
-    language: python
-    name: python3
-  language_info:
-    codemirror_mode:
-      name: ipython
-      version: 3
-    file_extension: .py
-    mimetype: text/x-python
-    name: python
-    nbconvert_exporter: python
-    pygments_lexer: ipython3
-    version: 3.9.12
-  nbformat: 4
-  nbformat_minor: 5
----
 
-::: {#94025e54 .cell .markdown}
 # MNIST Classification Example Using NPDL Library
 :::
 
@@ -219,7 +199,8 @@ epochs, training_losses, validation_losses, training_accuracies, validation_accu
 :::
 
 ::: {.output .stream .stderr}
-     25%|███████████▎                                 | 2/8 [00:08<00:25,  4.24s/it]
+    
+ 25%|███████████▎                                 | 2/8 [00:08<00:25,  4.24s/it]
 :::
 
 ::: {.output .stream .stdout}
@@ -231,7 +212,8 @@ epochs, training_losses, validation_losses, training_accuracies, validation_accu
 :::
 
 ::: {.output .stream .stderr}
-     38%|████████████████▉                            | 3/8 [00:12<00:21,  4.27s/it]
+    
+ 38%|████████████████▉                            | 3/8 [00:12<00:21,  4.27s/it]
 :::
 
 ::: {.output .stream .stdout}
@@ -243,7 +225,8 @@ epochs, training_losses, validation_losses, training_accuracies, validation_accu
 :::
 
 ::: {.output .stream .stderr}
-     50%|██████████████████████▌                      | 4/8 [00:17<00:17,  4.26s/it]
+    
+ 50%|██████████████████████▌                      | 4/8 [00:17<00:17,  4.26s/it]
 :::
 
 ::: {.output .stream .stdout}
@@ -255,7 +238,8 @@ epochs, training_losses, validation_losses, training_accuracies, validation_accu
 :::
 
 ::: {.output .stream .stderr}
-     62%|████████████████████████████▏                | 5/8 [00:21<00:12,  4.26s/it]
+    
+ 62%|████████████████████████████▏                | 5/8 [00:21<00:12,  4.26s/it]
 :::
 
 ::: {.output .stream .stdout}
@@ -267,7 +251,8 @@ epochs, training_losses, validation_losses, training_accuracies, validation_accu
 :::
 
 ::: {.output .stream .stderr}
-     75%|█████████████████████████████████▊           | 6/8 [00:25<00:08,  4.27s/it]
+    
+ 75%|█████████████████████████████████▊           | 6/8 [00:25<00:08,  4.27s/it]
 :::
 
 ::: {.output .stream .stdout}
@@ -279,7 +264,8 @@ epochs, training_losses, validation_losses, training_accuracies, validation_accu
 :::
 
 ::: {.output .stream .stderr}
-     88%|███████████████████████████████████████▍     | 7/8 [00:29<00:04,  4.28s/it]
+    
+ 88%|███████████████████████████████████████▍     | 7/8 [00:29<00:04,  4.28s/it]
 :::
 
 ::: {.output .stream .stdout}
@@ -451,7 +437,8 @@ epochs, training_losses, validation_losses, training_accuracies, validation_accu
 :::
 
 ::: {.output .stream .stderr}
-     40%|██████████████████                           | 2/5 [01:28<02:13, 44.57s/it]
+    
+ 40%|██████████████████                           | 2/5 [01:28<02:13, 44.57s/it]
 :::
 
 ::: {.output .stream .stdout}
@@ -463,7 +450,8 @@ epochs, training_losses, validation_losses, training_accuracies, validation_accu
 :::
 
 ::: {.output .stream .stderr}
-     60%|███████████████████████████                  | 3/5 [02:16<01:31, 45.78s/it]
+    
+ 60%|███████████████████████████                  | 3/5 [02:16<01:31, 45.78s/it]
 :::
 
 ::: {.output .stream .stdout}
@@ -475,7 +463,8 @@ epochs, training_losses, validation_losses, training_accuracies, validation_accu
 :::
 
 ::: {.output .stream .stderr}
-     80%|████████████████████████████████████         | 4/5 [03:03<00:46, 46.38s/it]
+    
+ 80%|████████████████████████████████████         | 4/5 [03:03<00:46, 46.38s/it]
 :::
 
 ::: {.output .stream .stdout}
