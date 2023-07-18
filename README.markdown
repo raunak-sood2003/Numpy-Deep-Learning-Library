@@ -34,7 +34,7 @@ from npdl.nn.models import Sequential
 model = Sequential()
 ```
 
-Adding `*layers* and *activations* via the **.add()** function.
+Adding *layers* and *activations* via the **.add()** function.
 
 ``` python
 from npdl.nn.layers import Linear
@@ -45,7 +45,7 @@ model.add(ReLU())
 ```
 
 Once you are done building the model, you can finish by setting the
-*loss* and `*optimizer* functions using the **.finalize()** function.
+*loss* and *optimizer* functions using the **.finalize()** function.
 *Note*: you must create objects for the loss function for the training step later. 
 One of the important features of NPDL is that the users must implement the 
 training function themselves.
