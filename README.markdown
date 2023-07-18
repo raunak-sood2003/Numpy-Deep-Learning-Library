@@ -1,6 +1,6 @@
 # NPDL: Numpy Deep Learning Library
 
-[image]{.image .placeholder original-image-src="images/npdl_logo.png"
+![image info](images/npdl_logo.png)
 
 ### This repository contains the source code and example notebooks for the NPDL library. 
 
@@ -12,7 +12,7 @@ Python and Numpy implementation.
 
 ### Properties of NPDL
 
--   `<u>`{=html}Style`</u>`{=html}: It has a style that is a mix of
+-   *Style*: It has a style that is a mix of
     Keras and PyTorch. While I like the simplicity of Keras, I prefer
     having more control over the training loops as it gives better
     intuition on how neural networks work.
