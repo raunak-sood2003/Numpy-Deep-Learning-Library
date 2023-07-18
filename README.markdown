@@ -1,35 +1,9 @@
----
-jupyter:
-  kernelspec:
-    display_name: Python 3 (ipykernel)
-    language: python
-    name: python3
-  language_info:
-    codemirror_mode:
-      name: ipython
-      version: 3
-    file_extension: .py
-    mimetype: text/x-python
-    name: python
-    nbconvert_exporter: python
-    pygments_lexer: ipython3
-    version: 3.9.12
-  nbformat: 4
-  nbformat_minor: 5
----
-
-::: {#0f0b5c9f .cell .markdown}
-# `<div align="center">`{=html} NPDL: Numpy Deep Learning Library `</div>`{=html} {#-npdl-numpy-deep-learning-library-}
+# NPDL: Numpy Deep Learning Library
 
 [image]{.image .placeholder original-image-src="images/npdl_logo.png"
-original-image-title=""}
-:::
 
-::: {#ac2b1e59 .cell .markdown}
-### `<div align="center">`{=html}This repository contains the source code and example notebooks for the NPDL library. `</div>`{=html} {#this-repository-contains-the-source-code-and-example-notebooks-for-the-npdl-library-}
-:::
+### This repository contains the source code and example notebooks for the NPDL library. 
 
-::: {#8ffb1792 .cell .markdown}
 ## About NPDL
 
 NPDL is a deep learning framework written purely in Numpy. I made this
