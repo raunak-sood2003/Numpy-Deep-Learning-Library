@@ -86,9 +86,8 @@ model.forward(test_example)
 
 ## Installation
 
-First make sure that you have the latest versions of
-`**pip**, `**Python** and **Numpy** installed. Then, in terminal run the
-following command:
+First make sure that you have the latest versions of **pip**, `**Python** 
+and **Numpy** installed. Then, in terminal run the following command:
 
 ``` python
 pip install -i https://test.pypi.org/simple/ npdl
@@ -102,7 +101,7 @@ plan on adding. Some of which are:
 -   *RNN Layers*: Simple RNN cell, LSTM, GRU and
     Embedding layers
 -   *Adding loss functions*: i.e KL-divergence
--   `*Adding activations*: i.e PrELU
+-   *Adding activations*: i.e PrELU
 
 ## Contributions
 
