@@ -1,4 +1,4 @@
-# NPDL: Numpy Deep Learning Library
+# NPDL: NumPy Deep Learning Library
 
 ![image info](images/npdl_logo.png)
 
@@ -6,9 +6,9 @@
 
 ## About NPDL
 
-NPDL is a deep learning framework written purely in Numpy. I made this
+NPDL is a deep learning framework written purely in NumPy. I made this
 library as an excercise in deep learning theory as well as practice with
-Python and Numpy implementation.
+Python and NumPy implementation.
 
 ### Properties of NPDL
 
@@ -86,8 +86,8 @@ model.forward(test_example)
 
 ## Installation
 
-First make sure that you have the latest versions of **pip**, `**Python** 
-and **Numpy** installed. Then, in terminal run the following command:
+First make sure that you have the latest versions of **pip**, **Python** 
+and **NumPy** installed. Then, in terminal run the following command:
 
 ``` python
 pip install -i https://test.pypi.org/simple/ npdl
@@ -100,12 +100,14 @@ plan on adding. Some of which are:
 
 -   *RNN Layers*: Simple RNN cell, LSTM, GRU and
     Embedding layers
+-   *Dataset tools*: to help with preprocessing and batches
 -   *Adding loss functions*: i.e KL-divergence
 -   *Adding activations*: i.e PrELU
+-   *Adding optimizers*: i.e AdaDelta
 
 ## Contributions
 
 I hope that the user finds this library easy to use and intutive. I
 would love feedback on the libraries functionality, so please feel free
 to email me at <rrsood003@gmail.com> for potential improvements. Have
-fun builidng your models!
+fun building your models!
