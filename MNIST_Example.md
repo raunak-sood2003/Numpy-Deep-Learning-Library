@@ -161,7 +161,7 @@ epochs, training_losses, validation_losses, training_accuracies, validation_accu
     train(model, loss_fn, optim_fn, epochs, batchesX_train, batchesY_train, batchesX_test, batchesY_test)
 ```
 
-     12%|█████▋                                       | 1/8 [00:04<00:29,  4.23s/it]
+ 12%|█████▋                                       | 1/8 [00:04<00:29,  4.23s/it]
 
     Epoch [1]/[8]
     Training Loss: 0.13569934921764962
@@ -331,7 +331,7 @@ epochs, training_losses, validation_losses, training_accuracies, validation_accu
     train(model, loss_fn, optim_fn, epochs, batchesX_train, batchesY_train, batchesX_test, batchesY_test)
 ```
 
-     20%|█████████                                    | 1/5 [00:43<02:54, 43.50s/it]
+ 20%|█████████                                    | 1/5 [00:43<02:54, 43.50s/it]
 
     Epoch [1]/[5]
     Training Loss: 0.5813174341348133
